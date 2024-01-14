@@ -1,16 +1,43 @@
-# mentalhealthapp
 
-A new Flutter project.
+# Flutter Mental Health App
+
+A simple Flutter app promoting mental well-being through a clean and user-friendly interface.
+
+<img src="https://github.com/Azhilus/MentalHealthAppUI/assets/66466976/193e5795-fa83-4aab-b898-1fe5db3c3aef" width="300">
+
+
+
+## Features
+
+- **Bottom Navigation Bar:** Easy access to Home, Profile, and Settings.
+- **Greeting and Date:** Personalized welcome and date display.
+- **Mood Selection:** Express emotions with emoticon faces and mood categories.
+- **Exercise Section:** Curated mental exercises for users.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/azhilus/MentalHealthAppUI.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project folder:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   cd MentalHealthAppUI
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+Happy Tinkering! 🚀
